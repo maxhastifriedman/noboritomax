@@ -5,6 +5,7 @@ node_modules/
 
 # TypeScript compiled output
 /dist
+/build
 *.tsbuildinfo
 
 # Optional TypeScript cache
